@@ -1,0 +1,12 @@
+{
+  "name": "sendsms",
+  "version": "1.0.0",
+  "description": "send sms api",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "thizr",
+  "license": "ISC"
+}
